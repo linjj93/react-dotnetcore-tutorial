@@ -4,3 +4,5 @@
 **/obj
 API/appsettings.json
 *.db
+**/**/bin
+**/**/obj
